@@ -1,4 +1,5 @@
 'use client';
+
 import Image from 'next/image';
 import { FaUsers, FaMusic, } from 'react-icons/fa';
 import { TbRulerMeasure } from 'react-icons/tb';

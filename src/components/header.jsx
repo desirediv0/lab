@@ -18,7 +18,7 @@ const navigationLinks = [
   { href: "/about", label: "About" },
   { href: "/service", label: "Service" },
   { href: "/process", label: "Our Process" },
-  { href: "/property", label: "Properties" },
+  { href: "/property", label: "Product" },
   { href: "/contact", label: "Contact" },
 ];
 
